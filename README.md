@@ -52,12 +52,12 @@ A *Python GUI application* built with Tkinter and SQLite to manage employee reco
 ---
 
 ### 📂 Folder Structure
-
+```
 /Employee-Management-System
 │── employee_management.py  # Main application file
 │── employee.db            # SQLite database file (created automatically)
 │── README.md              # Project documentation
-
+```
 
 ---
 
